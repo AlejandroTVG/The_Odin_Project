@@ -1,0 +1,19 @@
+.class {
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+  background-color: lightcoral;
+}
+
+#id1 {
+  font-size: 36px;
+  background-color: blue;
+}
+
+.class.third {
+  font-size: 24px;
+}
+
+#id2 {
+  font-size: 24px;
+  background-color: lightgreen;
+  font-weight: bold;
+}
